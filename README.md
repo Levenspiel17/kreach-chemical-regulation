@@ -56,3 +56,11 @@
 - 화학물질의 등록 및 평가 등에 관한 법률 (화평법, K-REACH)
 - 소관: 환경부
 - 시스템: [화학물질정보처리시스템](https://kreach.mcee.go.kr)
+
+## Cowork Skill 설치 방법
+
+1. 이 저장소에서 `kreach-db.skill` 파일 다운로드
+2. Claude Cowork에서 **"Save skill"** 버튼으로 설치
+3. 채팅창에 **"화평법 규제물질 리스트 업데이트 해줘"** 입력
+
+> **필요 환경:** Claude Cowork + Chrome MCP
